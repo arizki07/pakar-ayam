@@ -163,7 +163,7 @@
 
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Jelasin disini penjelasan ayam boiler kuk. Topic Listing is free Bootstrap 5 CSS template. <strong>You are not allowed to redistribute this template</strong> on any other template collection website without our permission. Please contact TemplateMo for more detail. Thank you.
+                                Ayam boiler adalah istilah yang digunakan untuk menyebut jenis ayam yang telah dihasilkan melalui program pemuliaan selektif untuk tujuan produksi daging yang optimal. Ayam boiler biasanya memiliki karakteristik fisik yang mencakup pertumbuhan yang cepat, daging yang banyak, dan tingkat konversi pakan yang efisien.
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
 
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Bebas pertanyaane. You can search on Google with <strong>keywords</strong> such as templatemo portfolio, templatemo one-page layouts, photography, digital marketing, etc.
+                                Sebagian besar penyakit pada ayam dapat disembuhkan atau dikendalikan dengan penanganan yang tepat. Namun, keberhasilan pengobatan tergantung pada beberapa faktor, termasuk jenis penyakit, tingkat keparahan, dan seberapa cepat intervensi dilakukan. Beberapa penyakit ayam yang umum, seperti coryza, Newcastle disease, atau infeksi saluran pernapasan lainnya, dapat diatasi dengan pengobatan yang sesuai.
                             </div>
                         </div>
                     </div>
@@ -191,7 +191,9 @@
 
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                1. Apa yang dimaksud dengan ayam boiler, dan apa karakteristik fisik yang biasanya dimiliki oleh ayam tersebut? <br>
+                                2. Bagaimana langkah-langkah umum dalam menangani penyakit pada ayam, dan mengapa isolasi ayam yang sakit penting dalam proses ini? <br>
+                                3. Apa peran vaksinasi dalam pencegahan penyakit ayam, dan mengapa konsultasi dengan dokter hewan sangat penting ketika ada tanda-tanda penyakit pada ayam?
                             </div>
                         </div>
                     </div>
@@ -257,8 +259,8 @@
                 <p class="d-flex align-items-center">
                     <span class="me-2">Email</span>
 
-                    <a href="mailto:info@company.com" class="site-footer-link">
-                        info@ahmadriski@gmail.com.com
+                    <a href="mailto:ahmadrizki0704@gmail.com" target="_blank" class="site-footer-link">
+                        infoahmadrizki0704@gmail.com
                     </a>
                 </p>
             </div>
@@ -310,8 +312,8 @@
                 </p>
 
                 <p class="text-white d-flex">
-                    <a href="mailto:info@company.com" class="site-footer-link">
-                        ahmadriski@gmail.com
+                    <a href="mailto:ahmadrizki0704@gmail.com" target="_blank" class="site-footer-link">
+                        infoahmadrizki0704@gmail.com
                     </a>
                 </p>
             </div>

@@ -216,6 +216,25 @@
             });
         });
     </script>
+
+    <script>
+        $('#sa-warning').click(function() {
+            swal({
+                title: 'Are you sure?',
+                text: "You won't be able to revert this!",
+                type: 'warning',
+                showCancelButton: true,
+                confirmButtonClass: 'btn btn-success',
+                cancelButtonClass: 'btn btn-danger',
+                confirmButtonText: 'Yes, Logout Now!'
+            }).then(function(result) {
+                if (result.value) {
+                    // Tempatkan tautan Log Out di sini
+                    window.location.href = '<?= base_url('/') ?>';
+                }
+            });
+        });
+    </script>
 </body>
 
 </html>

@@ -2,7 +2,7 @@
 
     <a href="index3.html" class="brand-link">
         <img src="landing_page/assets/img/ayam1.png" alt="" class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light">Admin</span>
+        <span class="brand-text font-weight-light">Sistem Pakar</span>
     </a>
 
     <div class="sidebar">
@@ -67,7 +67,7 @@
                     </a>
                 </li>
                 <li class="nav-item" data-segment="logout">
-                    <a href="<?= base_url('logout') ?>" class="nav-link">
+                    <a href="<?= base_url('logout') ?>" class="nav-link" id="sa-warning">
                         <i class="nav-icon fas fa-arrow-right"></i>
                         <p>
                             Logout
